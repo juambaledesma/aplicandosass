@@ -1,0 +1,62 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+header {
+  background-color: #cab0b0;
+  padding: 20px 0;
+  display: flex;
+}
+header div {
+  color: black;
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+}
+header div nav {
+  display: flex;
+}
+header div nav a {
+  color: brown;
+  text-decoration: none;
+  display: flex;
+  padding: 0 0 0 15px;
+}
+
+footer section .instagram {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 4%;
+}
+footer section .whatsapp {
+  position: fixed;
+  bottom: 0%;
+  right: 5%;
+  width: 3.5%;
+}
+
+.animate h2 {
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+  font-family: "Hurricane", cursive;
+  color: rgba(255, 1, 1, 0.808);
+  font-size: 2.5rem;
+}
+
+section div img {
+  display: flex;
+  width: 80%;
+  object-fit: cover;
+  padding: 50px;
+  margin-left: 2em;
+}
+section .palabrasinicio {
+  display: flex;
+  font-family: "Poppins", sans-serif;
+  padding: 50px;
+}
+
+/*# sourceMappingURL=style.css.map */

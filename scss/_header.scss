@@ -1,0 +1,24 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+header {
+    background-color: rgba($color: #cab0b0, $alpha: 1.0);
+    padding: 20px 0;
+    display: flex;
+    div {
+        color: black;
+        width: 30%;
+        display: flex;
+        justify-content: space-around;
+        nav {
+            display: flex;
+            a {
+                color: brown;
+                text-decoration: none;
+                display: flex;
+                padding: 0 0 0 15px;
+            }
+        }
+    }
+}
