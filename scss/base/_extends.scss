@@ -1,0 +1,27 @@
+
+
+%flexbox {
+    display: flex;
+}
+
+%fondo {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+iframe {
+    @extend %flexbox;
+}
+
+.seccionquienesomos {
+    @extend %flexbox;
+}
+
+.home {
+    @extend %fondo;
+}
+
+.bodyquienessomos {
+    @extend %fondo;
+}

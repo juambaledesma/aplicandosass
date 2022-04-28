@@ -1,0 +1,13 @@
+
+
+@mixin tamaño($valor){
+    width: $valor;
+}
+
+.fotoana {
+    @include tamaño(20rem)
+}
+
+.leyendoengrupo {
+    @include tamaño(30rem)
+}

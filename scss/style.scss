@@ -1,5 +1,8 @@
 @import "componentes/header";
 @import "componentes/footer";
 @import "componentes/animate";
-@import "../scss/pages/inicio";
 @import "componentes/mapas";
+@import "base/extends";
+@import "pages/inicio";
+@import "pages/quienesomos";
+@import "base/mixins";

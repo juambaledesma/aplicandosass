@@ -1,8 +1,9 @@
+
+
 section {
     div {
         img {
             display: flex;
-            width: 80%;
             object-fit: cover;
             padding: 50px;
             margin-left: 2em;
@@ -13,4 +14,9 @@ section {
         font-family: 'Poppins', sans-serif;
         padding: 50px;
     }
+}
+
+.home {
+    background-image: url(../../images/playa.jpg);
+    
 }
