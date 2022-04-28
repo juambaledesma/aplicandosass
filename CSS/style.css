@@ -59,4 +59,8 @@ section .palabrasinicio {
   padding: 50px;
 }
 
+#standard {
+  background-color: yellow;
+}
+
 /*# sourceMappingURL=style.css.map */

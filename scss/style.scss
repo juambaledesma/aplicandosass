@@ -1,4 +1,5 @@
-@import "header";
-@import "footer";
-@import "animate";
-@import "inicio";
+@import "componentes/header";
+@import "componentes/footer";
+@import "componentes/animate";
+@import "../scss/pages/inicio";
+@import "componentes/mapas";
